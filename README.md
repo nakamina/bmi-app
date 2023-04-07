@@ -6,3 +6,4 @@
 - python 3.9.9
 
 ## How to use bmi-app
+If you input your height and weight, you can find your BMI.
