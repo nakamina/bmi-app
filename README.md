@@ -37,12 +37,3 @@ bmi-app --height "身長(cm) --weight "体重(kg)"
 あなたのBMI値は"BMI値"です
 あなたの適正体重は"体重kg"です
 ```
-# bmi-app
-
-## This is an app that calculate BMI
-
-## Requirement 
-- python 3.9.9
-
-## How to use bmi-app
-If you input your height and weight, you can find your BMI.
