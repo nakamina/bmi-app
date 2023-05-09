@@ -33,7 +33,7 @@ Options:
 ### 身長(cm)と体重(kg)を入力する
 
 ```shell
-bmi-app --height "身長(cm) --weight "体重(kg)"
-あなたのBMI値は"BMI値"です
-あなたの適正体重は"体重kg"です
+🐱❯ bmi-app --height 200 --weight 100
+あなたのBMI値は25.0です
+あなたの適正体重は88.0kgです
 ```
